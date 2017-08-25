@@ -33,3 +33,10 @@ This table contains the fields:
 - `tabla` - name of the table that we have the tweets of the account
 - `publicar_cada` - time between tweet and tweet
             
+# Tweets table information:
+- `id` - table id
+- `content` - the tweet
+- `created_date` - created date timestamp 
+- `published_date` - published date timestamp
+- `published` - published status
+  
