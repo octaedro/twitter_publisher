@@ -1,6 +1,6 @@
 # twitter_publisher
 Twitter multiaccount publisher - Python
-This robot automatically publishes tweets to the selected accounts.
+This robot automatically publishes tweets to the selected accounts. If it doesn't have tweets to publish, it gets new ones with a Twitter keyword
 
 Preconditions:
 1) Have Python 2.7 installed
@@ -18,7 +18,7 @@ For this the following steps must be followed:
 5)  - Run the file: run.py (run in terminal: python run.py)
 6)  - Set a crontab that runs the run.py file
 
-Twitter account table information:
+# Twitter account table information:
 This table contains the fields:
 - `consumerkey` - twitter api
 - `consumersecret` - twitter api
