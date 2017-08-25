@@ -20,16 +20,16 @@ For this the following steps must be followed:
 
 Twitter account table information:
 This table contains the fields:
-            `consumerkey` - twitter api
-            `consumersecret` - twitter api
-            `accesstoken` - twitter api
-            `accesstokensecret` - twitter api
-            `cuenta` - not necessary
-            `palabra_clave`- keyword to be used when searching for new tweets
-            `url_fb` - not necesary
-            `fb_app_id` - not necessary
-            `fb_app_secret` - not necessary
-            `fb_token` - not necessary
-            `tabla` - name of the table that we have the tweets of the account
-            `publicar_cada` - time between tweet and tweet
+`consumerkey` - twitter api
+`consumersecret` - twitter api
+`accesstoken` - twitter api
+`accesstokensecret` - twitter api
+`cuenta` - not necessary
+`palabra_clave`- keyword to be used when searching for new tweets
+`url_fb` - not necesary
+`fb_app_id` - not necessary
+`fb_app_secret` - not necessary
+`fb_token` - not necessary
+`tabla` - name of the table that we have the tweets of the account
+`publicar_cada` - time between tweet and tweet
             
